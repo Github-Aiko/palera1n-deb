@@ -3,20 +3,10 @@
 This is a debugging tool for Palera1n. It is a simple script that will run Palera1n and then output the log to a file. It will also output the log to the terminal. This is useful for debugging issues with Palera1n. It is also useful for seeing what Palera1n is doing.
 
 ## How do I use it?
-Download the repo and run the install.sh file
-- step 1: Download the repo 
+Run Command on Terminal
 ```
-git clone https://github.com/Github-Aiko/palera1n-deb.git
+git clone https://github.com/Github-Aiko/palera1n-deb.git && cd palera1n-deb && sh install.sh
 ```
-- step 2: Access the repo
-```
-cd palera1n-deb
-```
-- step 3: Run the install.sh file
-```
-bash install.sh
-```
-
 Please follow the instructions in the next steps.
 
 ## The message
