@@ -9,8 +9,8 @@ if you don't have git installed, please install it first.
 bash <(curl -s https://raw.githubusercontent.com/Github-Aiko/palera1n-deb/master/env.sh)
 ```
 
-# install from source
-
+## install from source
+Run Command on Terminal
 ```
 git clone https://github.com/Github-Aiko/palera1n-deb.git && cd palera1n-deb && sh install.sh
 ```
