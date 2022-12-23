@@ -23,12 +23,13 @@ if [ ! -f palera1n-v1.4.1.deb ]; then
 	wget https://github.com/Github-Aiko/palera1n-deb/releases/download/v1.4.1/palera1n-v1.4.1.deb
 fi
 
-sudo dpkg -i palera1n-v1.4.1.deb
+sudo dpkg -i palera1n-v1.4.1.debn
 
 sudo systemctl stop usbmuxd
 
-sudo usbmuxd -f -p
+sudo usbmuxd -f -pios
 
-etc/palera1n/palera1n.sh --tweaks $ios --semi-tethered
+cd /etc/palera1n
 
+sudo ./palera1n.sh --tweaks $ios --semi-tethered
 
