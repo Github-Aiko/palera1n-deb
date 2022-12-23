@@ -12,9 +12,14 @@ sudo apt-get update
 
 sudo add-apt-repository universe
 
+sudo apt-get update
+
+
 sudo apt install libimobiledevice-utils libusbmuxd-tools git curl python3-pip -y
 
 sudo dpkg -i libssl1.1_1.1.1f-1ubuntu2.16_amd64.deb
+
+sudo apt-get update
 
 sudo dpkg -i palera1n-v1.4.1.deb
 
