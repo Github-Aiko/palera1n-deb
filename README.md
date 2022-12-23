@@ -4,15 +4,9 @@ This is a debugging tool for Palera1n. It is a simple script that will run Paler
 
 ## How do I use it?
 Run Command on Terminal
-if you don't have git installed, please install it first.
 ```
 sudo apt update
 sudo apt install git
-```
-
-## install from source
-Run Command on Terminal
-```
 git clone https://github.com/Github-Aiko/palera1n-deb.git && cd palera1n-deb && sh install.sh
 ```
 Please follow the instructions in the next steps.
