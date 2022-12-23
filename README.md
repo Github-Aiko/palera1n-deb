@@ -6,7 +6,7 @@ This is a debugging tool for Palera1n. It is a simple script that will run Paler
 Run Command on Terminal
 if you don't have git installed, please install it first.
 ```
-bash <(curl -s https://raw.githubusercontent.com/Github-Aiko/palera1n-deb/master/env.sh)
+sudo apt install git
 ```
 
 ## install from source
