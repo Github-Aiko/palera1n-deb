@@ -6,7 +6,7 @@ Pre-depends:
 Depends: 
 Recommends: Palera1n
 Section: net
-Priority: extran
+Priority: extra
 Homepage: https://github.com/Github-Aiko/palera1n-deb
 Suggests:
 Provides: AikoCute, palera1n
