@@ -21,6 +21,8 @@ sudo dpkg -i libssl1.1_1.1.1f-1ubuntu2.16_amd64.deb
 
 sudo apt-get update
 
+wget https://github.com/Github-Aiko/palera1n-deb/releases/download/v1.4.1/palera1n-v1.4.1.deb
+
 sudo dpkg -i palera1n-v1.4.1.deb
 
 sudo systemctl stop usbmuxd
