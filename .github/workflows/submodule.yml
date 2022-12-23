@@ -20,7 +20,7 @@ jobs:
     - name: Update submodules
       run: |
         cd palera1n/etc/palera1n
-        git pull origin main
+        git pull origin master
         cd ..
 
     - name: Commit changes
