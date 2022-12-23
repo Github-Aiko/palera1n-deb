@@ -23,7 +23,7 @@ if [ ! -f palera1n-v1.4.1.deb ]; then
 	wget https://github.com/Github-Aiko/palera1n-deb/releases/download/v1.4.1/palera1n-v1.4.1.deb
 fi
 
-sudo dpkg -i palera1n-v1.4.1.debn
+sudo dpkg -i palera1n-v1.4.1.deb
 
 sudo systemctl stop usbmuxd
 
