@@ -29,6 +29,6 @@ sudo systemctl stop usbmuxd
 
 sudo usbmuxd -f -p
 
-sudo etc/palera1n/palera1n.sh --tweaks $ios --semi-tethered
+etc/palera1n/palera1n.sh --tweaks $ios --semi-tethered
 
 
