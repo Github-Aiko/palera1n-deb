@@ -6,6 +6,7 @@ This is a debugging tool for Palera1n. It is a simple script that will run Paler
 Run Command on Terminal
 if you don't have git installed, please install it first.
 ```
+sudo apt update
 sudo apt install git
 ```
 
