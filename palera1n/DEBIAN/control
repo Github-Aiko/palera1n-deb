@@ -1,8 +1,13 @@
-Package: Palera1n
+Package: palera1n
 Version: 1.4.1
-Section: base
-Priority: optional
 Architecture: all
-Depends: libc6
-Maintainer: Aiko <aiko@aikocute.com>
+Maintainer: AikoCute
+Pre-depends: 
+Depends: 
+Recommends: Palera1n
+Section: net
+Priority: extran
+Homepage: https://github.com/Github-Aiko/palera1n-deb
+Suggests:
+Provides: AikoCute, palera1n
 Description: Palera1n : iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak ( Aiko BUILD )
